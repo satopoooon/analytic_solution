@@ -1,0 +1,2 @@
+# analytic_solution
+有限要素法との比較のためにanalytic solutionを実装
